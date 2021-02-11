@@ -68,11 +68,13 @@ li {
 }
 footer {
     margin: 30px auto;
+    display: flex;
+    align-items: center;
+}
+footer a {
+    margin: 0 20px;
 }
 
-footer svg {
-    cursor: pointer;
-}
 footer svg:hover {
     fill: #b22222;
 }
