@@ -11,7 +11,7 @@ My major is web development I have bachelor degree on computer engineering.  So 
 `Version control system:` Git  
 `Graphics editor:` Adobe Photoshop, Figma
 ## Code examples:
-- [ToDo](https://github.com/koljn12345/todo/)
+  [ToDo](https://github.com/koljn12345/todo/)
 ## Experience:
 Work experience   
 -Since march 2017- november 2018, "GrandPark", Web developer
